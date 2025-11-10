@@ -26,6 +26,7 @@ body{
     font-size: 18px;
     position: relative;
     left: 100px;
+    filter:contrast(50%)
 }
 
 #hlogo{
