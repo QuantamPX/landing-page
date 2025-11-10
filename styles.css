@@ -89,3 +89,81 @@ body{
     left: 100px;
     bottom: -20px;
 }
+/* Block 2 */
+
+h2{
+    text-align: center;
+    font-weight: bold;
+}
+
+.box{
+    width: 150px;
+    height: 150px;
+    border-radius: 10px;
+    border-color: #3882F6;
+    padding: 20px;
+    background-color: white;
+    border: 2px #3882F6;
+    margin: 0 10px;
+}
+
+.boxes{
+    display: flex;
+    flex-direction: row;
+}
+
+#box1{
+    border-color: #3882F6 ;
+    
+}
+#block3{
+    background-color: #E5E7EB;
+}
+#quote{
+    font-size: 36px;
+    color: #1F2937;   
+    font-weight: 300;
+    font-style: italic;
+
+}
+
+#thor{
+    color: black;
+    font-style: bold;
+    font-size: 20px;
+    position: relative;
+    left: 600px;
+    bottom: 25px;
+}
+
+
+.header_box{
+    border: 2px solid #3882F6;
+    padding: 20px;
+    margin: 20px;
+    background-color: #3882F6;
+    width: 300px;
+    text-align: center;
+
+
+    
+#sign_up2{
+    background-color: #3882F6 ;
+    font-size: 13px;
+    font-family: Roboto;
+    color: white;
+    padding: 15px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    border-radius: 10px;
+    box-shadow: #1F2937;
+    position: relative;
+    left: 100px;
+    bottom: -20px;
+}
+
+}
+
+
