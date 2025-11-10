@@ -1,0 +1,90 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: Roboto, "sans-serif";
+
+}
+
+#block1{
+    background-color: #1F2937;
+}
+
+#hero{
+    font-size: 48px;
+    font-weight: 900;
+    color: #F9FAF8;
+    position: relative;
+    left: 100px;
+
+
+}
+
+#website_text{
+    color: #E5E7EB;
+    font-size: 18px;
+    position: relative;
+    left: 100px;
+}
+
+#hlogo{
+    color: #F9FAF8;
+    font-size: 18px;
+    font-weight: bold;
+    position: relative;
+    top: 5px;
+    left: 100px
+}
+
+#hlinkone{
+    color: #c7c7c7;
+    font-size: 15px;
+    position: relative;
+    bottom: 10px;
+    text-align: right;
+    right: 400px;
+
+}
+
+#hlinktwo{
+    color: #c7c7c7;
+    font-size: 15px;
+    position: relative;
+    bottom: 28px;
+    text-align: right;
+    right: 260px;
+}
+
+#hlinkthree{
+    color: #c7c7c7;
+    font-size: 15px;
+    position: relative;
+    bottom: 45px;
+    text-align: right;
+    right: 105px;
+
+}
+
+#image_placeholder{
+    position: relative;
+    left: 1250px;
+    bottom: 100px;
+}
+
+#sign_up1{
+    background-color: #3882F6 ;
+    font-size: 13px;
+    font-family: Roboto;
+    color: white;
+    padding: 15px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    border-radius: 10px;
+    box-shadow: #1F2937;
+    position: relative;
+    left: 100px;
+    bottom: -20px;
+}
