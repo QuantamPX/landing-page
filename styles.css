@@ -9,6 +9,7 @@ body{
 
 #block1{
     background-color: #1F2937;
+    height: 400px;
 }
 
 #hero{
@@ -90,10 +91,14 @@ body{
     bottom: -20px;
 }
 /* Block 2 */
+#block2{
+    height: 400px;
+}
 
 h2{
     text-align: center;
     font-weight: bold;
+    position: relative;
 }
 
 .box{
@@ -118,12 +123,16 @@ h2{
 }
 #block3{
     background-color: #E5E7EB;
+    height: 400px;
 }
 #quote{
     font-size: 36px;
     color: #1F2937;   
     font-weight: 300;
     font-style: italic;
+    text-align: center;
+    position: relative;
+    top: 150px;
 
 }
 
@@ -132,8 +141,8 @@ h2{
     font-style: bold;
     font-size: 20px;
     position: relative;
-    left: 600px;
-    bottom: 25px;
+    left: 1400px;
+    top: 120px;
 }
 
 
@@ -144,26 +153,16 @@ h2{
     background-color: #3882F6;
     width: 300px;
     text-align: center;
-
-
-    
-#sign_up2{
-    background-color: #3882F6 ;
-    font-size: 13px;
-    font-family: Roboto;
-    color: white;
-    padding: 15px 20px;
+}
+#footer{
+    background-color: #1F2937;
+    height: 50px;
     text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    cursor: pointer;
-    border-radius: 10px;
-    box-shadow: #1F2937;
+    color: #c7c7c7;
+    
+}
+
+footer{
     position: relative;
-    left: 100px;
-    bottom: -20px;
+    top: 20px;
 }
-
-}
-
-
